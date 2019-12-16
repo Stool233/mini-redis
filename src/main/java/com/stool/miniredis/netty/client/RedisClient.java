@@ -22,6 +22,7 @@ import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
 public class RedisClient {
+    // test commit
     private final static Logger LOG = LoggerFactory.getLogger(RedisClient.class);
 
     private String ip;
